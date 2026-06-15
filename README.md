@@ -53,5 +53,3 @@ Combo Planner が役に立った場合は、任意で開発支援できます。
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="140">
 </a>
 
-支援リンク：  
-ここにBuy_Me_a_CoffeeのURL
