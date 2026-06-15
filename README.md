@@ -49,7 +49,7 @@ ZIPを展開し、`ComboPlanner.exe` を起動してください。
 Combo Planner が役に立った場合は、任意で開発支援できます。  
 支援は完全に任意であり、支援の有無によって機能差はありません。
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-開発支援-yellow)](ここにBuy_Me_a_CoffeeのURL)
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/yraf0618)
 
 支援リンク：  
 ここにBuy_Me_a_CoffeeのURL
