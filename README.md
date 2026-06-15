@@ -49,7 +49,9 @@ ZIPを展開し、`ComboPlanner.exe` を起動してください。
 Combo Planner が役に立った場合は、任意で開発支援できます。  
 支援は完全に任意であり、支援の有無によって機能差はありません。
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/yraf0618)
+<a href="https://buymeacoffee.com/yraf0618">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="140">
+</a>
 
 支援リンク：  
 ここにBuy_Me_a_CoffeeのURL
